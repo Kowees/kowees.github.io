@@ -87,7 +87,9 @@ html body section, html body footer {
 
 @media (min-width: 992px) {
   html body section, html body footer {
+    justify-content: center;
     padding: 5rem 0;
+    display: flex;
   }
 }
 
@@ -104,6 +106,7 @@ html body header {
 
 html body .container {
   max-width: 192rem;
+  width: 100%;
   padding: 0 4rem;
   display: flex;
 }
