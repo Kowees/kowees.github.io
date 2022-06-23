@@ -1,1 +1,0 @@
-{"mappings":"AACAA,SAASC,KAAKC,UAAY","sources":["src/app.js"],"sourcesContent":["import * as classes from './scss/main.scss';\r\ndocument.body.className = classes.body;\r\n\r\n"],"names":["document","body","className"],"version":3,"file":"index.05eba31a.js.map"}
