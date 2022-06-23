@@ -106,13 +106,13 @@ html body header {
 
 html body .container {
   max-width: 192rem;
-  width: 100%;
   padding: 0 4rem;
   display: flex;
 }
 
 @media (min-width: 992px) {
   html body .container {
+    width: 100%;
     padding: 0 11rem;
   }
 }
